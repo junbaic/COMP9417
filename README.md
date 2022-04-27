@@ -1,2 +1,2 @@
 # COMP9417
-UNSW_2022_Term1
+> Professor: Omar Ghattas
